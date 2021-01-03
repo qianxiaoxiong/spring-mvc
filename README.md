@@ -10,3 +10,7 @@
     <br>
     ![spring-context](src/main/webapp/pics/spring-context-1.png)     
     2.2
+
+
+
+注意: 只能用webapp不能用webapps
